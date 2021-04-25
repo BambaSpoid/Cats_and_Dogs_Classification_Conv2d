@@ -15,9 +15,9 @@ Nous traiterons de vrais fichiers d'images, et NON de tableaux numérisés. Ce q
 - 3 Taille des images en moyenne : (356,409,3)
 - 4 Manipulation et generation d'images : (ImageDataGenerator, flow_from_directory)
 - 5 Creation de modele : Avec une architecture CNN 
-Total params: 2,424,065
-Trainable params: 2,424,065
-Non-trainable params: 0
+- Total params: 2,424,065
+- Trainable params: 2,424,065
+- Non-trainable params: 0
 
 # Evaluation
 - Loss : 0.32
